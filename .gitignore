@@ -1,0 +1,10 @@
+# Keep only chunked data and the page
+# Exclude raw large files and scripts
+国社科立项_全学科.json
+国社科立项_全学科.csv
+国社科立项_哲学.json
+国社科立项_哲学.csv
+采集摘要_全学科.json
+采集摘要_哲学.json
+split_data.py
+build_model.py
